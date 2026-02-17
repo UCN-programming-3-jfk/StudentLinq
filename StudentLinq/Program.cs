@@ -5,6 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        //This is a template file for you to add your solution
+        //A suggested solution is at the bottom of this file 😊
 
         Console.WriteLine("All students");
         //your code here
