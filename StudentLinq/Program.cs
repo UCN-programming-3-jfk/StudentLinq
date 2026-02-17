@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
+
         Console.WriteLine("All students");
         //your code here
         Console.WriteLine();
